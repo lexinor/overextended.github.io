@@ -16,5 +16,5 @@ setr ox_target:drawSprite 1
 setr ox_target:defaults 1
 
 # Enable debugging / testing options, entity outlines, and a raycast indicator.
-setr ox_target:debug 0
+setr ox_target:debug 1
 ```
